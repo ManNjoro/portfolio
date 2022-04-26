@@ -209,14 +209,7 @@ footer {
         min-height: 10vh;
     }
 
-        footer .footer-content .logo {
-            min-width: 80px;
-            margin-right: 10px;
-        }
-
-            footer .footer-content .logo img {
-                width: 100%;
-            }
+        
 
 /*============= Media query ===============*/
 @media(min-width: 400px) {
