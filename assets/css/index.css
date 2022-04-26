@@ -32,6 +32,7 @@ h1, h2 {
     right: 0;
     border-bottom: 2px solid #000;
     z-index: 5;
+    height: 16%;
 }
 
 .nav-content {
@@ -78,6 +79,7 @@ h1, h2 {
 
             .nav-content ul li a:hover {
                 color: #000;
+                
             }
 
 /*============= Welcoming ===============*/
